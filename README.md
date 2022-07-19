@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chirag Dua
 - 👀 I’m interested in seeking well deserved interenship
-- 🌱 I’m currently learning javascript and backend works with c++ 
+- 🌱 I’m currently learning javascript and backend works with Django
 - 💞️ I’m looking to collaborate on good frontend project
 - 📫 you can mail me on chiragdua02@gmail.com 
 
