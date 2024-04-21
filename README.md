@@ -3,7 +3,7 @@
 - 👀 I’m actively seeking job opportunities.
 - 🌱 I have experience with Node.js, Spring Boot, and React.
 - 💼 I’m actively looking for job opportunities.
-- 💞️ I’m interested in collaborating on frontend projects.
+- 💞️ I’m interested in collaborating on fullstack projects.
 - 📫 Feel free to reach out to me via email at chiragdua02@gmail.com.
 
 
